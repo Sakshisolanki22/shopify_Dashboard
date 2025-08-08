@@ -1,0 +1,16 @@
+ ## Objective
+To provide a clear, real-time view of store performance, enabling quick and informed decision-making.
+
+## Purpose
+To monitor sales trends, marketing effectiveness, and inventory status for better strategic planning.
+
+ ## Tools/Techniques
+Shopify Analytics (built-in)
+
+Looker Studio / Power BI / Tableau (for custom dashboards)
+
+Shopify API for data extraction
+
+Data visualization & KPI tracking
+
+
