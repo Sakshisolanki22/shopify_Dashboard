@@ -72,5 +72,8 @@ Schedule regular reviews (daily, weekly, monthly).
 
 Update dashboard metrics as business priorities change.
 
-## ScreenShot <a "herf = https://github.com/Sakshisolanki22/shopify_Dashboard/commit/8c763fe1c480b6cd9ffe77f74de4498714bd5134"> view Dashborad </a> 
+## ScreenShot <a herf = "https://github.com/Sakshisolanki22/shopify_Dashboard/commit/8c763fe1c480b6cd9ffe77f74de4498714bd5134"> view Dashborad </a>
+
+## Conclusion
+The Shopify Dashboard Report streamlines performance tracking, highlights key growth drivers, and supports data-driven decision-making for sustainable business success.
 
